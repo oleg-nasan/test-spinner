@@ -1,0 +1,29 @@
+.cu-ui-root .cu-button button {
+  background-color: #04AA6D; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.cu-ui-root .cu-checkbox p-checkbox {
+margin: 10px;
+}
+.p-checkbox .p-checkbox-box.p-highlight {
+    border-color: #007ad9;
+    background: red;
+}
+.cu-ui-root .cu-dropdown p-dropdown {
+margin: 10px;
+}
+.cu-ui-root .cu-dropdown .cu-dropdown-field .p-dropdown, .cu-ui-dialog .cu-dropdown .cu-dropdown-field .p-dropdown {
+    border: 2px solid red;
+}
+.cu-ui-root .cu-text-input input {
+margin: 10px;
+}
+.cu-ui-root .cu-text-input input {
+    border: solid 2px red;
+}
